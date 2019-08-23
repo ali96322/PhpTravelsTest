@@ -1,0 +1,8 @@
+com\php\qa\pages\HeadHomePage.class
+com\php\qa\pages\HotelsPage.class
+com\php\qa\pages\LoginPage.class
+com\php\qa\pages\SignUpPage.class
+com\php\qa\pages\HomePage.class
+com\php\qa\pages\FlightsPage.class
+com\php\qa\util\TestUtil.class
+com\php\qa\base\TestBase.class
